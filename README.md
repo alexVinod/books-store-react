@@ -1,14 +1,14 @@
 # Books Store App-React
-Book Store Application Using React
+  - Book Store Application Using React
 
 ### Install Node Modules
-npm i --save nodemodules
+  - npm i --save nodemodules
 
 ### Run App
-npm start
+  - npm start
 
 ### Check in Browser :
-http://localhost:3000/
+  - http://localhost:3000/
 
 ### Project Screenshot 1 :
 ![Screenshot](https://github.com/alexVinod/books-store-react/blob/master/src/icons/projectView.png?raw=true)
