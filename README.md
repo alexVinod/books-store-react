@@ -16,6 +16,8 @@ http://localhost:3000/
 - Here we can starting book shelf and we can change the self, based on our requirement...!
 - And we can add new books from Google API, click on + symbol button and we can add books to required shelf.
 
+<hr>
+
 ### Project Screenshot 2:
 ![Screenshot](https://github.com/alexVinod/books-store-react/blob/master/src/icons/projectView1.png?raw=true)
 
